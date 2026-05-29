@@ -149,7 +149,3 @@ customer-trends-data-analysis-SQL-Python-PowerBI/
 ├── report/
 └── README.md
 ```
-# 📘 Notebook Preview (NBViewer)
-
-GitHub sometimes fails to render .ipynb notebooks properly.
-You can view the notebook directly using NBViewer:
